@@ -1,4 +1,2 @@
-# Git Lab Exercise
-
-This project demonstrates collaborative
-development using Git and GitHub.
+## Project Footer
+Contributed by Angel.
